@@ -1,0 +1,230 @@
+publishedAt,title,body,rating,author,useful
+2023-03-20T14:49:02+0100,Goede functionele jas,,5,"{'country': 'NL', 'authorId': 14400547, 'firstname': 'Eric', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2023-03-07T10:45:02+0100,Top jas,,5,"{'country': 'NL', 'authorId': 9466889, 'firstname': 'André', 'countryLabel': 'Nederland'}",True
+2022-12-31T22:37:20+0100,Gaaf jasje,,5,"{'country': 'NL', 'authorId': 12740274, 'firstname': 'joeri', 'countryLabel': 'Nederland'}",True
+2022-12-14T09:12:31+0100,Al met al de perfecte vest,,5,"{'country': 'NL', 'authorId': 14153497, 'firstname': 'Saagar', 'countryLabel': 'Nederland'}",True
+2022-11-15T05:55:57+0100,Prima jas,,5,"{'country': 'NL', 'authorId': 11854735, 'firstname': 'Marco', 'countryLabel': 'Nederland'}",True
+2022-11-04T09:56:44+0100,Jas niet passend helaas.,,2,"{'country': 'NL', 'authorId': 14041831, 'firstname': 'Janny', 'countryLabel': 'Nederland'}",False
+2022-10-08T19:09:45+0200,Jas is te kort voor de maat,,3,"{'country': 'NL', 'authorId': 13978766, 'firstname': 'Patrick', 'gender': 'Man', 'countryLabel': 'Nederland'}",False
+2022-10-07T18:24:09+0200,Fijne tussenjas,,4,"{'country': 'NL', 'authorId': 12413956, 'firstname': 'R', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-09-30T19:11:41+0200,Oke,,5,"{'country': 'NL', 'authorId': 12808771, 'firstname': 'Cees', 'countryLabel': 'Nederland'}",True
+2022-09-30T11:48:38+0200,Lekker jack om snel even bij je te steken.,,5,"{'country': 'NL', 'authorId': 13896680, 'firstname': 'Anneke', 'countryLabel': 'Nederland'}",True
+2022-05-14T20:11:12+0200,Mooie jas,,4,"{'country': 'NL', 'authorId': 10922624, 'firstname': 'Marcel', 'countryLabel': 'Nederland'}",True
+2022-05-13T09:07:51+0200,Hele Fijne jas,,4,"{'country': 'NL', 'authorId': 13516171, 'firstname': 'Richard', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2022-04-26T18:02:44+0200,Superfijne softshell,,5,"{'country': 'NL', 'authorId': 13471360, 'firstname': 'Vincent', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-04-11T10:49:07+0200,:sunflower:,,4,"{'country': 'NL', 'authorId': 13428753, 'firstname': 'Cengiz', 'countryLabel': 'Nederland'}",True
+2022-03-22T10:47:02+0100,Net zo goed als concurrenten die 4x zo duur zijn,,5,"{'country': 'NL', 'authorId': 13283344, 'firstname': 'A.R.C.M.', 'countryLabel': 'Nederland'}",True
+2022-02-17T11:19:05+0100,Nice,,5,"{'country': 'NL', 'authorId': 13253947, 'firstname': 'esh', 'countryLabel': 'Nederland'}",True
+2020-11-09T09:40:10+0100,Fijne jas,,5,"{'country': 'NL', 'authorId': 11136519, 'firstname': 'Marcel', 'countryLabel': 'Nederland'}",True
+2020-11-09T09:32:32+0100,Niet geheel winddicht...,,4,"{'country': 'NL', 'authorId': 11716602, 'firstname': 'J', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2020-11-06T09:43:29+0100,Top jas!,,5,"{'country': 'NL', 'authorId': 11712176, 'firstname': 'Nico', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2020-08-06T09:13:26+0200,Fijne jas die beschermt tegen de wind,,5,"{'country': 'NL', 'authorId': 11088434, 'firstname': 'Bouke', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2020-04-21T08:21:29+0200,Prima jas,,4,"{'country': 'NL', 'authorId': 6224270, 'firstname': 'Huib', 'gender': 'Man', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2023-02-14T20:55:09+0100,Super fijn jas,,5,"{'country': 'NL', 'authorId': 14320623, 'firstname': 'Zarife', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2023-02-07T18:07:13+0100,Prachtige jas voor een mooie prijs,,5,"{'country': 'NL', 'authorId': 14303040, 'firstname': 'Sheila', 'countryLabel': 'Nederland'}",True
+2023-01-25T22:26:21+0100,Perfecte jas voor deze koude dagen,,5,"{'country': 'NL', 'authorId': 12001174, 'firstname': 'Frank', 'countryLabel': 'Nederland'}",True
+2023-01-13T13:04:41+0100,Heerlijke jas,,5,"{'country': 'NL', 'authorId': 14237349, 'firstname': 'Robin', 'gender': 'Man', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2023-01-02T07:19:54+0100,Prima jas,,5,"{'country': 'NL', 'authorId': 14208608, 'firstname': 'Eric', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-29T22:29:08+0100,verwarment,,5,"{'country': 'NL', 'authorId': 14148572, 'firstname': 'Jan', 'countryLabel': 'Nederland'}",True
+2022-12-23T15:03:40+0100,Geweldig winterjas,,5,"{'country': 'NL', 'authorId': 14125857, 'firstname': 'Martin', 'countryLabel': 'Nederland'}",True
+2022-12-22T12:36:33+0100,Top jas!!,,5,"{'country': 'NL', 'authorId': 14180239, 'firstname': 'Nadine', 'countryLabel': 'Nederland'}",True
+2022-12-20T11:43:03+0100,Perfecte parka,,5,"{'country': 'NL', 'authorId': 14173552, 'firstname': 'Fred', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2022-12-20T11:17:17+0100,Perfect,,5,"{'country': 'NL', 'authorId': 13960258, 'firstname': 'j', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2022-12-17T01:25:05+0100,Super jas en lekker warm,,5,"{'country': 'NL', 'authorId': 14092738, 'firstname': 'Jaap', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-15T10:33:59+0100,Super jas,,5,"{'country': 'NL', 'authorId': 1396627, 'firstname': 'David', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-13T19:47:17+0100,O,,4,"{'country': 'NL', 'authorId': 14152533, 'firstname': 'Reinier', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-10T14:19:26+0100,Gewedlige warme jas voor een geweldige prijs!,,5,"{'country': 'NL', 'authorId': 11840856, 'firstname': 'Tom', 'gender': 'Man', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2022-12-03T10:36:43+0100,Echt een top jas! Ben er super blij mee!,,5,"{'country': 'NL', 'authorId': 14119262, 'firstname': 'Wendy', 'countryLabel': 'Nederland'}",True
+2022-11-27T23:30:25+0100,Eindelijk!!!,,5,"{'country': 'NL', 'authorId': 14039956, 'firstname': 'B.', 'countryLabel': 'Nederland'}",True
+2022-11-19T19:18:54+0100,Lekker warm,,5,"{'country': 'NL', 'authorId': 5383800, 'firstname': 'Chiel', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2022-10-26T18:28:57+0200,Een fijne warme jas,,5,"{'country': 'NL', 'authorId': 14024438, 'firstname': 'Rob', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-21T19:57:43+0200,Mooie warme en waterdichte parka,,4,"{'country': 'NL', 'authorId': 14011458, 'firstname': 'Jean', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-07T19:21:57+0200,Hele fijne winterjas,,5,"{'country': 'NL', 'authorId': 13976266, 'firstname': 'René', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-05T16:03:16+0200,"mooie, warme jas voor een goede prijs",,5,"{'country': 'NL', 'authorId': 13970770, 'firstname': 'J.J.', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-05T14:34:51+0200,Uitstekende warme jas,,5,"{'country': 'NL', 'authorId': 13970593, 'firstname': 'Jolanda', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-10-04T20:49:45+0200,Goede kwaliteit voor een mooi prijsje,,5,"{'country': 'NL', 'authorId': 13969176, 'firstname': 'Bianca', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-10-04T13:21:48+0200,Prima jas,,4,"{'country': 'NL', 'authorId': 12979404, 'firstname': 'Harry', 'countryLabel': 'Nederland'}",True
+2022-10-04T11:11:08+0200,De perfecte jas voor het na jaar,,5,"{'country': 'NL', 'authorId': 13967646, 'firstname': 'Sjoerd', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-04T06:39:21+0200,Gewoon perfecte jas,,5,"{'country': 'NL', 'authorId': 12913697, 'firstname': 'Martin', 'countryLabel': 'Nederland'}",True
+2022-10-04T01:23:31+0200,Super warme jas voor de echte koude dagen,,5,"{'country': 'NL', 'authorId': 13301257, 'firstname': 'Wim', 'countryLabel': 'Nederland'}",True
+2022-10-03T20:09:59+0200,Prima parka.,,5,"{'country': 'NL', 'authorId': 13966736, 'firstname': 'Henk', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-03T19:47:22+0200,Antarctisch proof,,5,"{'country': 'NL', 'authorId': 13966674, 'firstname': 'Josch', 'gender': 'Man', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2022-10-03T19:34:01+0200,prima jas!,,4,"{'country': 'NL', 'authorId': 13966641, 'firstname': 'M', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-10-03T19:29:49+0200,Superwarm,,5,"{'country': 'NL', 'authorId': 13966625, 'firstname': 'M', 'countryLabel': 'Nederland'}",True
+2022-10-03T19:19:29+0200,"Gave jas, mooie uitstraling en lekker warm :smiling_face_with_closed_eyes:",,5,"{'country': 'NL', 'authorId': 13966604, 'firstname': 'Hennie', 'countryLabel': 'Nederland'}",True
+2022-10-03T19:10:04+0200,Heerlijke parka. Ook voor de koude dagen.,,5,"{'country': 'NL', 'authorId': 12264728, 'firstname': 'Gerwin', 'countryLabel': 'Nederland'}",True
+2022-09-19T20:57:00+0200,Geweldige jas,,5,"{'country': 'NL', 'authorId': 13931376, 'firstname': 'Inge', 'countryLabel': 'Nederland'}",True
+2022-09-18T17:32:00+0200,Perfect,,5,"{'country': 'NL', 'authorId': 12565086, 'firstname': 'Richard', 'countryLabel': 'Nederland'}",True
+2022-09-01T21:25:20+0200,Top jas,,5,"{'country': 'NL', 'authorId': 9812939, 'firstname': 'Hans', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-05-29T19:06:01+0200,Top jas voor een mooie prijs,,4,"{'country': 'NL', 'authorId': 12954172, 'firstname': 'Henk', 'countryLabel': 'Nederland'}",True
+2022-05-03T19:11:47+0200,Geweldig,,5,"{'country': 'NL', 'authorId': 13491583, 'firstname': 'Pauline', 'countryLabel': 'Nederland'}",True
+2022-04-12T17:56:55+0200,waardeloos verpakt,,4,"{'country': 'NL', 'authorId': 13435757, 'firstname': 'maria', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2022-03-24T18:54:47+0100,Top jas voor een top prijs,,5,"{'country': 'NL', 'authorId': 13386530, 'firstname': 'Sonia', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-03-28T09:12:20+0200,Ideale winterjas,,5,"{'country': 'NL', 'authorId': 13386502, 'firstname': 'Joyce', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-03-14T21:42:28+0100,Fijne warme jas,,5,"{'country': 'NL', 'authorId': 11932104, 'firstname': 'Peter', 'countryLabel': 'Nederland'}",True
+2022-02-27T17:08:16+0100,Zware warme jas,,3,"{'country': 'NL', 'authorId': 13318121, 'firstname': 'Arnold', 'gender': 'Man', 'countryLabel': 'Nederland'}",False
+2022-02-27T13:35:52+0100,Goed voor op de scooter,,5,"{'country': 'NL', 'authorId': 8183429, 'firstname': 'Bryan', 'countryLabel': 'Nederland'}",True
+2022-02-22T18:07:27+0100,Perfect,,5,"{'country': 'NL', 'authorId': 11445967, 'firstname': 'jordy', 'countryLabel': 'Nederland'}",True
+2022-02-21T18:36:32+0100,Fijne jas,,4,"{'country': 'NL', 'authorId': 13302486, 'firstname': 'AHM', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-02-07T18:24:59+0100,"Ik gebruik de jas op paard, werkt goed.",,5,"{'country': 'NL', 'authorId': 13261764, 'firstname': 'Vera', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-02-02T19:45:28+0100,Perfecte jas,,5,"{'country': 'NL', 'authorId': 13178593, 'firstname': 'John', 'countryLabel': 'Nederland'}",True
+2022-01-31T18:11:42+0100,Heerlijk warm en winddicht,,5,"{'country': 'NL', 'authorId': 13241417, 'firstname': 'Simone', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-01-27T21:21:19+0100,Jas scheurt net boven de borst,,1,"{'country': 'NL', 'authorId': 13230841, 'firstname': 'Pierre', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",False
+2022-01-17T09:28:48+0100,Geweldige en funcioneel,,5,"{'country': 'NL', 'authorId': 13191768, 'firstname': 'Gijs', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-01-17T09:28:17+0100,Geweldige aankoop.totaal geen spijt.,,5,"{'country': 'NL', 'authorId': 13190664, 'firstname': 'Rosa', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2022-01-11T09:14:48+0100,Lekker warm!,,4,"{'country': 'NL', 'authorId': 6290586, 'firstname': 'Pim', 'countryLabel': 'Nederland'}",True
+2022-01-06T09:44:15+0100,Past goed!,,5,"{'country': 'NL', 'authorId': 13162843, 'firstname': 'jill', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-01-03T09:01:48+0100,Hele fijne jas voor het geld.,,5,"{'country': 'NL', 'authorId': 7287446, 'firstname': 'Bert', 'countryLabel': 'Nederland'}",True
+2021-12-28T09:12:54+0100,Super mooie jas zit perfect en maat van de jas pre,,5,"{'country': 'NL', 'authorId': 13135491, 'firstname': 'ans', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-12-28T08:55:52+0100,Jas,,5,"{'country': 'NL', 'authorId': 13046577, 'firstname': 'Michel', 'countryLabel': 'Nederland'}",True
+2021-12-28T09:12:28+0100,fantastiche jas met maar één minpuntje,,5,"{'country': 'NL', 'authorId': 13131738, 'firstname': 'Marc', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-12-28T09:12:15+0100,Heerlijke jas en heb er elke dag plezier van,,5,"{'country': 'NL', 'authorId': 6565482, 'firstname': 'Jordi', 'countryLabel': 'Nederland'}",True
+2021-12-24T11:19:08+0100,"Heerlijke warme jas, comfortabel en regendicht",,5,"{'country': 'NL', 'authorId': 13125234, 'firstname': 'Tjebbe', 'gender': 'Man', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2021-12-21T09:15:37+0100,Echt goed,,5,"{'country': 'NL', 'authorId': 13114081, 'firstname': 'vlainic', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-24T08:43:46+0100,Fantastisch! Nooit meer Woolrich.,,5,"{'country': 'NL', 'authorId': 13016436, 'firstname': 'F', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2021-11-22T09:31:38+0100,De kou maakt geen schijn van kans.,,5,"{'country': 'NL', 'authorId': 7845638, 'firstname': 'Rakesh', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2021-11-22T09:32:07+0100,Perfecte jas,,5,"{'country': 'NL', 'authorId': 13005511, 'firstname': 'Désiré', 'countryLabel': 'Nederland'}",True
+2021-11-18T08:58:23+0100,Prima jas lekker warm,,5,"{'country': 'NL', 'authorId': 12997416, 'firstname': 'H', 'gender': 'Man', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:36:55+0100,Mooie en fijne jas,,5,"{'country': 'NL', 'authorId': 12933466, 'firstname': 'Marcel', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:38:07+0100,Meer dan Fantastisch!!,,5,"{'country': 'NL', 'authorId': 12993133, 'firstname': 'Roy', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:36:12+0100,geweldige jas voldoet aan alles voor de winter,,5,"{'country': 'NL', 'authorId': 12992592, 'firstname': 'Nick', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:35:38+0100,Kwaliteit,,5,"{'country': 'NL', 'authorId': 12984471, 'firstname': 'S', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:37:14+0100,Prachtige winterjas,,5,"{'country': 'NL', 'authorId': 12983248, 'firstname': 'leo', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-15T09:30:23+0100,Vind het een geweldige winterjas.,,5,"{'country': 'NL', 'authorId': 12981529, 'firstname': 'Ron', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-15T09:30:21+0100,Een comfortabele warme mooie winterjas,,5,"{'country': 'NL', 'authorId': 12981132, 'firstname': 'Sjonny', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:40:37+0100,Perfecte jas,,5,"{'country': 'NL', 'authorId': 12974198, 'firstname': 'Jan', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:40:14+0100,heerlijke warme jas,,5,"{'country': 'NL', 'authorId': 12974033, 'firstname': 'Harry', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:42:16+0100,Superfijne jas,,5,"{'country': 'NL', 'authorId': 12912282, 'firstname': 'Conny', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:38:57+0100,Goed,,4,"{'country': 'NL', 'authorId': 12971206, 'firstname': 'K.N', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-08T09:10:14+0100,Heerlijke jas,,5,"{'country': 'NL', 'authorId': 12964694, 'firstname': 'David', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-08T09:06:42+0100,Vlugge bezorging en kwaliteit die je mag verwachte,,5,"{'country': 'NL', 'authorId': 12903765, 'firstname': 'Hgm van', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-11-05T09:20:14+0100,"Zeer warme, wind waterdichte Jas",,5,"{'country': 'NL', 'authorId': 12958713, 'firstname': 'Laila', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-11-04T09:03:47+0100,Top jas!,,5,"{'country': 'NL', 'authorId': 12956544, 'firstname': 'Mark', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-05T09:17:30+0100,"Ziet er erg goed uit, pasvorm is niet geweldig",,4,"{'country': 'NL', 'authorId': 12955433, 'firstname': 'Mark', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2021-11-02T08:58:40+0100,Prima jas met juist maat,,5,"{'country': 'NL', 'authorId': 12877737, 'firstname': 'Mark', 'countryLabel': 'Nederland'}",True
+2021-10-26T09:23:31+0200,heerlijk warm,,5,"{'country': 'NL', 'authorId': 12930467, 'firstname': 'Colette', 'countryLabel': 'Nederland'}",True
+2021-10-26T09:23:31+0200,Geweldig,,5,"{'country': 'NL', 'authorId': 12930403, 'firstname': 'Rishairo', 'countryLabel': 'Nederland'}",True
+2021-10-26T09:23:27+0200,Zeer goed.,,5,"{'country': 'NL', 'authorId': 12929759, 'firstname': 'Bert', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2021-10-25T09:37:25+0200,"online besteld,omgeruild aangezien jas eng uitvalt",,5,"{'country': 'NL', 'authorId': 12925959, 'firstname': 'frans', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-10-11T09:21:01+0200,"Heerlijke mooie jas,",,5,"{'country': 'NL', 'authorId': 12406512, 'firstname': 'Martijn', 'countryLabel': 'Nederland'}",True
+2021-05-17T11:25:16+0200,Heerlijke winterjas,,5,"{'country': 'NL', 'authorId': 8458689, 'firstname': 'Andy', 'countryLabel': 'Nederland'}",True
+2021-04-12T09:52:35+0200,Mooie degelijke jas,,5,"{'country': 'NL', 'authorId': 12265086, 'firstname': 'Mark', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-03-15T09:07:57+0100,Prima jas,,4,"{'country': 'NL', 'authorId': 12174370, 'firstname': 'Sabrina', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-03-12T08:59:15+0100,Warme jas,,5,"{'country': 'NL', 'authorId': 11848034, 'firstname': 'Teunis', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-02-18T09:03:18+0100,Sportieve en comfortabele winterjas.,,5,"{'country': 'NL', 'authorId': 12087765, 'firstname': 'Bob', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-02-18T09:04:11+0100,Lekkere warme winterjas,,4,"{'country': 'NL', 'authorId': 6483259, 'firstname': 'Roy', 'countryLabel': 'Nederland'}",True
+2021-02-15T09:32:08+0100,Geweldig!!,,5,"{'country': 'NL', 'authorId': 12071704, 'firstname': 'Saskia', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-01-21T09:51:55+0100,"Super warme jas, laat de winter maar komen.",,4,"{'country': 'NL', 'authorId': 11905111, 'firstname': 'Peter', 'countryLabel': 'Nederland'}",True
+2021-01-12T08:01:19+0100,bestel een L krijg ik na 8 dagen een XL opgestuurd,,1,"{'country': 'NL', 'authorId': 11952800, 'firstname': 'Marian', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2020-12-23T10:13:51+0100,heerlijke warme jas.,,5,"{'country': 'NL', 'authorId': 7128979, 'firstname': 'Jaap', 'countryLabel': 'Nederland'}",True
+2020-12-07T09:29:08+0100,Super warme jas,,5,"{'country': 'NL', 'authorId': 11812174, 'firstname': 'MONICA', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2020-11-02T08:20:54+0100,Maakt belofte waar,,5,"{'country': 'NL', 'authorId': 11665048, 'firstname': 'Paul', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2020-10-26T07:54:09+0100,Heerlijke warme jas.,,5,"{'country': 'NL', 'authorId': 11616922, 'firstname': 'Daniel', 'countryLabel': 'Nederland'}",True
+2020-10-12T08:19:50+0200,Geweldige warme jas!,,5,"{'country': 'NL', 'authorId': 11535959, 'firstname': 'Jeroen', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2020-10-05T08:04:27+0200,Geweldig,,5,"{'country': 'NL', 'authorId': 11490674, 'firstname': 'Jelle', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2020-07-24T08:37:43+0200,Fijne maar zware jas,,4,"{'country': 'NL', 'authorId': 10997245, 'firstname': 'Jose', 'countryLabel': 'Nederland'}",True
+2019-01-24T10:37:19+0100,Winterjas,,5,"{'country': 'NL', 'authorId': 7398174, 'firstname': 'Madelon', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2019-01-17T13:04:36+0100,Warme winterjas,,4,"{'country': 'NL', 'authorId': 7383482, 'firstname': 'Tamara', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2018-12-31T08:58:43+0100,Houd me heerlijk warm!!,,5,"{'country': 'NL', 'authorId': 7323217, 'firstname': 'shahzad', 'gender': 'Man', 'age': '20-29', 'countryLabel': 'Nederland'}",True
+2018-12-14T15:20:49+0100,Jas met flinke kanttekeningen,,1,"{'country': 'NL', 'authorId': 7260307, 'firstname': 'Jan', 'gender': 'Man', 'age': '50-59', 'countryLabel': 'Nederland'}",False
+2018-12-10T16:27:28+0100,Great wintercoat,,5,"{'country': 'NL', 'authorId': 7231251, 'firstname': 'Michelle', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2018-12-03T15:50:41+0100,top parka,,5,"{'country': 'NL', 'authorId': 7211690, 'firstname': 'Frank', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2023-04-01T15:26:43+0200,Prima jas en echt winddicht gebruik voor buiten pa,,5,"{'country': 'NL', 'authorId': 14316685, 'firstname': 'Coree', 'countryLabel': 'Nederland'}",True
+2023-03-05T12:11:15+0100,Goede softshell en warme,,5,"{'country': 'NL', 'authorId': 13757825, 'firstname': 'Lorena Andrea', 'countryLabel': 'Nederland'}",True
+2023-02-22T22:42:48+0100,Prima prijs kwaliteit,,4,"{'country': 'NL', 'authorId': 10785085, 'firstname': 'steven', 'countryLabel': 'Nederland'}",True
+2023-01-29T20:49:45+0100,Prima jas voor een prima prijs,,5,"{'country': 'NL', 'authorId': 14232456, 'firstname': 'Jacky', 'countryLabel': 'Nederland'}",True
+2023-01-19T20:10:16+0100,Fijne lichte jas.,,5,"{'country': 'NL', 'authorId': 14251679, 'firstname': 'Eelco', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-07T19:35:31+0100,Very good,,5,"{'country': 'NL', 'authorId': 14133872, 'firstname': 'F. F.', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-12-05T09:00:54+0100,Perfect,,5,"{'country': 'NL', 'authorId': 11991711, 'firstname': 'Bert', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-11-14T10:45:21+0100,Lekkere jas,,4,"{'country': 'NL', 'authorId': 9496171, 'firstname': 'Danny', 'countryLabel': 'Nederland'}",True
+2022-03-31T19:47:25+0200,Prima jas voor een klein prijsje,,5,"{'country': 'NL', 'authorId': 13405360, 'firstname': 'Loek', 'countryLabel': 'Nederland'}",True
+2021-12-06T09:36:27+0100,Waterdicht en warm,,5,"{'country': 'NL', 'authorId': 12992014, 'firstname': 'Erwin', 'countryLabel': 'Nederland'}",True
+2021-11-22T09:31:06+0100,Prima,,5,"{'country': 'NL', 'authorId': 8349904, 'firstname': 'Bas', 'countryLabel': 'Nederland'}",True
+2021-11-15T09:30:19+0100,Warm maar niet te.,,5,"{'country': 'NL', 'authorId': 12980030, 'firstname': 'Dave', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-12T08:46:36+0100,Warme jas,,5,"{'country': 'NL', 'authorId': 12978078, 'firstname': 'Bilal', 'countryLabel': 'Nederland'}",True
+2021-11-11T09:28:55+0100,Super jas,,4,"{'country': 'NL', 'authorId': 12976461, 'firstname': 'Jian', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2023-03-06T08:36:40+0100,Perfecte jas,,4,"{'country': 'NL', 'authorId': 14366080, 'firstname': 'Klaas', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2023-02-24T08:16:04+0100,Het artikel is perfect zoals het  aanbevolen wordt,,5,"{'country': 'NL', 'authorId': 14298179, 'firstname': 'M', 'countryLabel': 'Nederland'}",True
+2023-02-21T19:22:34+0100,goede jas zit lekker maat klopt erg warm,,5,"{'country': 'NL', 'authorId': 10101537, 'firstname': 'Nico', 'countryLabel': 'Nederland'}",True
+2023-02-11T19:02:02+0100,Voir dat geld een ontzettend fijne jas,,5,"{'country': 'NL', 'authorId': 13479289, 'firstname': 'Emmy', 'countryLabel': 'Nederland'}",True
+2023-02-06T09:08:31+0100,fijne jas,,5,"{'country': 'NL', 'authorId': 14297944, 'firstname': 'Ben', 'gender': 'Man', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2023-01-13T16:08:38+0100,Fijne warme lekkere winterjas,,5,"{'country': 'NL', 'authorId': 6857993, 'firstname': 'Galid', 'countryLabel': 'Nederland'}",True
+2022-12-22T18:18:47+0100,"Echt een top jas, boven verwachting!!!",,5,"{'country': 'NL', 'authorId': 13119487, 'firstname': 'Lars', 'countryLabel': 'Nederland'}",True
+2022-12-07T21:21:01+0100,"fijne jas, voor weer en wind",,5,"{'country': 'NL', 'authorId': 13000811, 'firstname': 'Ronald', 'countryLabel': 'Nederland'}",True
+2023-04-11T11:33:17+0200,Goede jas voor deze prijs,,4,"{'country': 'NL', 'authorId': 14432456, 'firstname': 'Richard', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2023-04-10T19:31:17+0200,Het is niet waterdicht!,,1,"{'country': 'NL', 'authorId': 14439924, 'firstname': 'Nazmi', 'gender': 'Man', 'age': '40-49', 'countryLabel': 'Nederland'}",False
+2023-01-28T15:19:04+0100,mooie jas,,5,"{'country': 'NL', 'authorId': 11848092, 'firstname': 'H', 'countryLabel': 'Nederland'}",True
+2023-01-06T18:58:24+0100,Hele goede regenjas,,5,"{'country': 'NL', 'authorId': 14219781, 'firstname': 'Koos', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-11-14T14:08:05+0100,Fijne en lichte regenjas,,5,"{'country': 'NL', 'authorId': 6909239, 'firstname': 'F.L.', 'countryLabel': 'Nederland'}",True
+2022-10-28T11:48:35+0200,Perfecte jas voor regenachtige dagen.,,5,"{'country': 'NL', 'authorId': 13960679, 'firstname': 'Dik', 'countryLabel': 'Nederland'}",True
+2022-07-21T17:32:19+0200,prachtige jas,,5,"{'country': 'NL', 'authorId': 13714604, 'firstname': 'volkan', 'gender': 'Man', 'age': '30-39', 'countryLabel': 'Nederland'}",True
+2022-07-08T18:19:58+0200,Goed!!!,,5,"{'country': 'NL', 'authorId': 13700690, 'firstname': 'Sylwia', 'countryLabel': 'Nederland'}",True
+2022-05-10T06:37:16+0200,Mooie jas,,5,"{'country': 'NL', 'authorId': 13507305, 'firstname': 'JC', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2022-04-09T22:59:53+0200,Prima lekker zomer jack.,,5,"{'country': 'NL', 'authorId': 9174518, 'firstname': 'A.L.', 'countryLabel': 'Nederland'}",True
+2022-03-04T18:06:11+0100,Prima,,5,"{'country': 'NL', 'authorId': 7711483, 'firstname': 'Janet', 'countryLabel': 'Nederland'}",True
+2022-03-04T18:06:07+0100,Prima,,5,"{'country': 'NL', 'authorId': 7711483, 'firstname': 'Janet', 'countryLabel': 'Nederland'}",True
+2022-01-17T09:28:51+0100,Superjas,,5,"{'country': 'NL', 'authorId': 13192999, 'firstname': 'Ron', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-11-17T09:37:46+0100,Super comfortabel,,5,"{'country': 'NL', 'authorId': 7778378, 'firstname': 'thirza', 'countryLabel': 'Nederland'}",True
+2021-11-05T09:17:07+0100,Voldoet perfect aan de verwachting.,,5,"{'country': 'NL', 'authorId': 12954057, 'firstname': 'Richard', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-10-22T10:01:32+0200,Prima jas en waterdicht,,5,"{'country': 'NL', 'authorId': 12915201, 'firstname': 'Joke', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-10-08T09:35:28+0200,Prima prijs kwaliteit,,4,"{'country': 'NL', 'authorId': 12876306, 'firstname': 'Rob', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-09-14T09:07:58+0200,"Ik had al een groene, nu ook een blauwe",,5,"{'country': 'NL', 'authorId': 12801420, 'firstname': 'Tineke', 'countryLabel': 'Nederland'}",True
+2021-09-14T09:07:35+0200,Top model ook qua uiterlijk!,,5,"{'country': 'NL', 'authorId': 12801420, 'firstname': 'Tineke', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-08-17T09:03:51+0200,Fantastische jas,,5,"{'country': 'NL', 'authorId': 12711523, 'firstname': 'Wilma', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-08-16T09:14:12+0200,Fijne jas,,5,"{'country': 'NL', 'authorId': 12068198, 'firstname': 'Alette', 'countryLabel': 'Nederland'}",True
+2021-07-21T09:11:12+0200,Super fijne regenjas!,,5,"{'country': 'NL', 'authorId': 12618716, 'firstname': 'Nicole', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-06-04T09:46:13+0200,Boven verwachting goed,,5,"{'country': 'NL', 'authorId': 12450213, 'firstname': 'Sebastiaan', 'gender': 'Man', 'countryLabel': 'Nederland'}",True
+2021-05-06T09:29:10+0200,Jas past goed en is goed waterdicht,,5,"{'country': 'NL', 'authorId': 12349558, 'firstname': 'Karin', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-04-20T08:48:37+0200,Tevreden,,5,"{'country': 'NL', 'authorId': 12298096, 'firstname': 'Jolanda', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-02-08T09:45:15+0100,"Ruime, echt waterdichte jas",,4,"{'country': 'NL', 'authorId': 11910401, 'firstname': 'Mirjam', 'countryLabel': 'Nederland'}",True
+2020-11-17T09:35:55+0100,super jas,,4,"{'country': 'NL', 'authorId': 11750676, 'firstname': 'Kim', 'countryLabel': 'Nederland'}",True
+2020-10-19T08:09:48+0200,Perfect voor op de fiets,,5,"{'country': 'NL', 'authorId': 11562484, 'firstname': 'Leendert', 'countryLabel': 'Nederland'}",True
+2020-09-16T07:48:26+0200,Prima ook voor op de fiets,,5,"{'country': 'NL', 'authorId': 6419255, 'firstname': 'Boye', 'countryLabel': 'Nederland'}",True
+2023-01-04T09:18:05+0100,Heerlijk fijne jas om in hard te lopen!,,5,"{'country': 'NL', 'authorId': 14210300, 'firstname': 'Laura', 'countryLabel': 'Nederland'}",True
+2023-01-01T20:49:01+0100,Fijne jas,,4,"{'country': 'NL', 'authorId': 7806458, 'firstname': 'Lieke', 'countryLabel': 'Nederland'}",True
+2022-12-25T20:14:12+0100,Erg fijne waterafstotende jas!,,5,"{'country': 'NL', 'authorId': 14154347, 'firstname': 'Xander', 'countryLabel': 'Nederland'}",True
+2022-12-23T22:38:37+0100,Veel te klein!! Erg jammer…,,4,"{'country': 'NL', 'authorId': 14185116, 'firstname': 'Miranda', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2022-12-23T21:59:32+0100,Valt mega klein 44 zit als 40,,3,"{'country': 'NL', 'authorId': 14185116, 'firstname': 'Miranda', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2022-03-23T10:24:42+0100,"fijn jack dat door de ""luchtgaten"" perfect is als",,5,"{'country': 'NL', 'authorId': 13382597, 'firstname': 'Ellemieke', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-01-10T09:29:41+0100,Prima,,4,"{'country': 'NL', 'authorId': 13169865, 'firstname': 'Anne-Marie', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2021-12-29T08:47:50+0100,Veeeel te klein!,,1,"{'country': 'NL', 'authorId': 13139200, 'firstname': 'Lisa', 'gender': 'Vrouw', 'age': '30-39', 'countryLabel': 'Nederland'}",False
+2023-02-06T18:40:41+0100,Winddicht en warm,,5,"{'country': 'NL', 'authorId': 14299938, 'firstname': 'Hillie', 'countryLabel': 'Nederland'}",True
+2021-12-06T09:34:50+0100,Super cute,,4,"{'country': 'NL', 'authorId': 13052693, 'firstname': 'Sue-Ann', 'countryLabel': 'Nederland'}",True
+2021-11-18T08:58:19+0100,"Een hele fijne, warme jas die ik elke dag draag",,5,"{'country': 'NL', 'authorId': 12939530, 'firstname': 'Katarzyna', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:43:27+0100,Een heel fijne jas!,,5,"{'country': 'NL', 'authorId': 12916101, 'firstname': 'Ella', 'countryLabel': 'Nederland'}",True
+2021-10-28T09:23:09+0200,Een heel fijne jas,,5,"{'country': 'NL', 'authorId': 12936606, 'firstname': 'Licia', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2021-09-29T12:45:25+0200,Goede prijs en stof,,5,"{'country': 'NL', 'authorId': 12847101, 'firstname': 'Agnieszka', 'countryLabel': 'Nederland'}",True
+2021-09-28T09:08:27+0200,Top jas,,5,"{'country': 'NL', 'authorId': 12846628, 'firstname': 'Ch', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-01-18T09:23:16+0100,Top,,4,"{'country': 'NL', 'authorId': 11912461, 'firstname': 'Frank', 'countryLabel': 'Nederland'}",True
+2020-10-29T09:03:07+0100,Super jas !,,5,"{'country': 'NL', 'authorId': 9079045, 'firstname': 'Jana', 'countryLabel': 'Nederland'}",True
+2020-10-13T08:00:57+0200,"Mooie snit, beetje smal in de schouders",,3,"{'country': 'NL', 'authorId': 11541824, 'firstname': 'A.c.', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Nederland'}",False
+2020-10-12T08:05:43+0200,Hele dunne jas geen echte winterjas meer regenjas,,3,"{'country': 'NL', 'authorId': 11516803, 'firstname': 'Lisette', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",False
+2023-02-06T18:40:41+0100,Winddicht en warm,,5,"{'country': 'NL', 'authorId': 14299938, 'firstname': 'Hillie', 'countryLabel': 'Nederland'}",True
+2021-12-06T09:34:50+0100,Super cute,,4,"{'country': 'NL', 'authorId': 13052693, 'firstname': 'Sue-Ann', 'countryLabel': 'Nederland'}",True
+2021-11-18T08:58:19+0100,"Een hele fijne, warme jas die ik elke dag draag",,5,"{'country': 'NL', 'authorId': 12939530, 'firstname': 'Katarzyna', 'countryLabel': 'Nederland'}",True
+2021-11-10T09:43:27+0100,Een heel fijne jas!,,5,"{'country': 'NL', 'authorId': 12916101, 'firstname': 'Ella', 'countryLabel': 'Nederland'}",True
+2021-10-28T09:23:09+0200,Een heel fijne jas,,5,"{'country': 'NL', 'authorId': 12936606, 'firstname': 'Licia', 'gender': 'Vrouw', 'age': '50-59', 'countryLabel': 'Nederland'}",True
+2021-09-29T12:45:25+0200,Goede prijs en stof,,5,"{'country': 'NL', 'authorId': 12847101, 'firstname': 'Agnieszka', 'countryLabel': 'Nederland'}",True
+2021-09-28T09:08:27+0200,Top jas,,5,"{'country': 'NL', 'authorId': 12846628, 'firstname': 'Ch', 'gender': 'Vrouw', 'age': '60 of ouder', 'countryLabel': 'Nederland'}",True
+2021-01-18T09:23:16+0100,Top,,4,"{'country': 'NL', 'authorId': 11912461, 'firstname': 'Frank', 'countryLabel': 'Nederland'}",True
+2020-10-29T09:03:07+0100,Super jas !,,5,"{'country': 'NL', 'authorId': 9079045, 'firstname': 'Jana', 'countryLabel': 'Nederland'}",True
+2020-10-13T08:00:57+0200,"Mooie snit, beetje smal in de schouders",,3,"{'country': 'NL', 'authorId': 11541824, 'firstname': 'A.c.', 'gender': 'Vrouw', 'age': '40-49', 'countryLabel': 'Nederland'}",False
+2020-10-12T08:05:43+0200,Hele dunne jas geen echte winterjas meer regenjas,,3,"{'country': 'NL', 'authorId': 11516803, 'firstname': 'Lisette', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",False
+2023-03-05T10:58:25+0100,Blij mee,,4,"{'country': 'NL', 'authorId': 14309866, 'firstname': 'Marion', 'countryLabel': 'Nederland'}",True
+2023-02-26T19:26:50+0100,Mooi jas,,5,"{'country': 'NL', 'authorId': 14348443, 'firstname': 'S.', 'countryLabel': 'Nederland'}",True
+2023-02-11T20:57:22+0100,Fantastische Jas,,5,"{'country': 'NL', 'authorId': 14313469, 'firstname': 'Selena', 'countryLabel': 'Nederland'}",True
+2023-02-04T23:22:35+0100,"Heerlijke jas, maar..",,3,"{'country': 'NL', 'authorId': 12045801, 'firstname': 'mirjam', 'countryLabel': 'Nederland'}",True
+2023-01-20T19:21:24+0100,Lekker warme waterdichte jas,,5,"{'country': 'NL', 'authorId': 14255983, 'firstname': 'Sandra', 'countryLabel': 'Nederland'}",True
+2023-01-13T19:08:26+0100,Ja gewoon goed allemaal,,5,"{'country': 'NL', 'authorId': 14238169, 'firstname': 'Joke', 'countryLabel': 'Nederland'}",True
+2022-12-17T00:30:38+0100,Eerste ik heb gekocht de merk Quechua omdat ik spr,,5,"{'country': 'NL', 'authorId': 14162690, 'firstname': 'Dolores', 'countryLabel': 'Nederland'}",True
+2022-10-17T16:07:58+0200,Te klein van maat,,3,"{'country': 'NL', 'authorId': 12197768, 'firstname': 'Henny', 'countryLabel': 'Nederland'}",True
+2022-05-17T12:58:48+0200,Lekker warm zowel in de winter als in de lente,,5,"{'country': 'NL', 'authorId': 12513598, 'firstname': 'Jacqueline', 'countryLabel': 'Nederland'}",True
+2022-02-18T18:59:22+0100,Heerlijke jas,,5,"{'country': 'NL', 'authorId': 8146603, 'firstname': 'Jennifer', 'countryLabel': 'Nederland'}",True
+2022-02-13T23:43:55+0100,Ideale jas,,5,"{'country': 'NL', 'authorId': 13279871, 'firstname': 'Moniek', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-02-09T15:12:10+0100,Prima jas voor een prima prijs,,4,"{'country': 'NL', 'authorId': 13266471, 'firstname': 'Lian', 'gender': 'Vrouw', 'countryLabel': 'Nederland'}",True
+2022-01-18T09:23:28+0100,Heel fijne jas,,5,"{'country': 'NL', 'authorId': 12492957, 'firstname': 'Mandy', 'countryLabel': 'Nederland'}",True
+2021-12-09T08:49:17+0100,Ik heb er al veel plezier van gehad.,,5,"{'country': 'NL', 'authorId': 13068243, 'firstname': 'jan', 'gender': 'Man', 'age': '40-49', 'countryLabel': 'Nederland'}",True
+2021-11-01T09:22:16+0100,Fantastische herfst jas,,5,"{'country': 'NL', 'authorId': 10397445, 'firstname': 'Edwin', 'countryLabel': 'Nederland'}",True
+2021-09-20T10:12:30+0200,Goede prijs/kwaliteitsverhouding,,5,"{'country': 'NL', 'authorId': 12755137, 'firstname': 'Johannes', 'countryLabel': 'Nederland'}",True
+2021-02-08T09:21:41+0100,Goede pasvorm,,4,"{'country': 'NL', 'authorId': 11860221, 'firstname': 'Yesper', 'countryLabel': 'Nederland'}",False
+2020-12-07T09:30:14+0100,grootste maat,,5,"{'country': 'NL', 'authorId': 11814735, 'firstname': 'Leo', 'countryLabel': 'Nederland'}",True
