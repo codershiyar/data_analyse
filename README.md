@@ -1,8 +1,8 @@
-# Project Name
+## Data Science tool for data analysis
 
-    - This project is a data analysis tool that includes several scripts to analyze images and text data and store results in a Microsoft Access database.
-    - While the project was completed in under 10 hours due to time constraints, there may be opportunities to further optimize the code for better performance and functionality.
-    - As a diligent student at The Hague University of Applied Sciences, I am also a proficient software engineer with experience overseeing large-scale programming projects across diverse industries. In addition to my studies, I research and explore innovative ways to teach programming and design to students of all levels. You can find me online under the name "Coder Shiyar"
+- This project is a data analysis tool that includes several scripts to analyze images and text data and store results in a Microsoft Access database.
+- While the project was completed in under 10 hours due to time constraints, there may be opportunities to further optimize the code for better performance and functionality.
+- As a diligent student at The Hague University of Applied Sciences, I am also a proficient software engineer with experience overseeing large-scale programming projects across diverse industries. In addition to my studies, I research and explore innovative ways to teach programming and design to students of all levels. You can find me online under the name "Coder Shiyar"
 
 ![Dashboard of Image Analysis Results](./dashboards_example/result_analysis_images.png)
 
